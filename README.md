@@ -8,8 +8,8 @@
 
 项目分为2个部分
 
-1.LINUX的SOCKET代码
+1.LINUX的SOCKET代码;
 
-2.WINDOWS的SOCKET代码
+2.WINDOWS的SOCKET代码;
 
-具体看模块里面README
+具体看模块里面README。

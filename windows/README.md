@@ -2,5 +2,5 @@
 
 ## 项目简介
 
-项目主要是windows封装winsock
+项目主要是windows封装winsock。
 
